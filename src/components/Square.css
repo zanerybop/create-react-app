@@ -1,4 +1,5 @@
 .square{
+    position: fixed;
     height: 15wv;
     background: white;
     width: 9.5vw;
