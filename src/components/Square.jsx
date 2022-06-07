@@ -39,7 +39,6 @@ function Square(props) {
         {
             if(gArr.length==6)
             {
-                window.alert("Победа");
                 setTimeout(() => { window.Telegram.WebApp.close(); }, 10000);  
             }
             for(var i = 0; i < gArr.length;i++)
