@@ -1,7 +1,7 @@
 .square{
     height: 15wv;
     background: white;
-    border: 1px solid #222222;
+    border: 0.5wv solid #222222;
     width: 10vw;
     flex: 1;
     font: TimesNewRoman;
