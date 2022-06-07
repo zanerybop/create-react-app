@@ -1,7 +1,6 @@
 .board{
     width: 60vw;
     height: auto;
-    background: blue;
     display: flex;
     justify-self: center;
     flex-wrap: wrap;
