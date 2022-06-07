@@ -39,7 +39,7 @@ function Square(props) {
         {
             if(gArr.length==6)
             {
-                
+                window.Telegram.WebApp.close()
                 console.log("win")
             }
             for(var i = 0; i < gArr.length;i++)
