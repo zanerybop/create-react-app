@@ -1,11 +1,10 @@
 .board{
     width: 50%;
-    min-height: 60vh;
+    height: auto;
     background: blue;
     display: flex;
-    
+    justify-self: center;
     flex-wrap: wrap;
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
-    
+    grid-template-columns: auto auto auto auto auto auto;    
 }
