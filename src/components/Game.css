@@ -6,4 +6,6 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    -webkit-text-size-adjust: none;
+    -webkit-appearance: none;
 }
