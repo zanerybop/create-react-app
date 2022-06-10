@@ -8,4 +8,5 @@
     grid-template-columns: repeat(auto-fill,10vw);
     -webkit-text-size-adjust: none;
     -webkit-appearance: none;
+    position: fixed;
 }
